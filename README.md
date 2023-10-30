@@ -1,25 +1,17 @@
-# phaser-webpack-boilerplate-new
+# Project Name
 
-## Setup
+Flappy bird game using phaser library
 
-1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
+## Installation
 
-2. Clone this repository or Download
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
 
-3. Navigate into the project directory
+## Usage
 
-```bash
-  $ cd phaser-webpack-boilerplate-new
-```
+1. Run `npm start` to start the development server.
+2. Open `http://localhost:8080` in your web browser.
 
-4. Install the requirements
+## License
 
-```bash
-  $ npm install
-```
-
-5. Run the app
-
-```bash
-  $ npm run dev
-```
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
